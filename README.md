@@ -33,7 +33,7 @@ Requisitos: Docker Desktop com Docker Compose.
 O arquivo `.env` de demonstração acompanha o repositório para que o Compose funcione imediatamente após o clone. Na raiz do projeto, execute:
 
 ```bash
-docker compose up --build -d
+docker compose up --build
 ```
 
 Depois que os serviços iniciarem, acesse:
