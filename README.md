@@ -1,5 +1,8 @@
 # Resumo 
 Aplicação web para armazenar, organizar, baixar e compartilhar arquivos. Inclui autenticação por usuário, painel administrativo, links temporários e documentação interativa da API.
+<img width="1916" height="935" alt="Captura de tela 2026-11-13 165723" src="https://github.com/user-attachments/assets/30ddba3c-331f-40af-9ffe-7a1fba88f0d6" />
+<img width="1913" height="933" alt="Captura de tela 2026-11-13 165953" src="https://github.com/user-attachments/assets/8c2bce8a-37d6-4619-a0dc-aedd2132dbdb" />
+<img width="1915" height="933" alt="Captura de tela 2026-11-13 165836" src="https://github.com/user-attachments/assets/25e120b4-70be-4203-b125-2910f65e24c8" />
 
 > **Atenção:** este projeto está configurado para avaliação e desenvolvimento local.
 
